@@ -4,6 +4,12 @@ A simple and elegant **Random Quote Generator** built with **React, JavaScript, 
 It displays a new inspirational or thought-provoking quote with every click — perfect for a quick dose of motivation.
 
 ---
+## 📸 App Screenshot
+
+![Random Quote Generator](https://global.discourse-cdn.com/freecodecamp/original/4X/8/1/2/812c4656984de6d303cb01f103a57d09c2ecfb7a.png)
+
+---
+
 
 ## 🚀 Features
 - 🧠 Generates random quotes instantly  
