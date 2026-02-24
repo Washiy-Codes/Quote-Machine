@@ -28,7 +28,7 @@ It displays a new inspirational or thought-provoking quote with every click — 
 
 ## 🌐 Live Demo
 👉 **Try it out here:**  
-[🔗 Random Quote Generator on GitHub Pages](https://Washiy-Codes.github.io/Quote-Machine/)
+[🔗 Random Quote Generator](https://Washiy-Codes.github.io/Quote-Machine/)
 
 ---
 
