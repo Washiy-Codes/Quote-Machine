@@ -12,9 +12,9 @@ It displays a new inspirational or thought-provoking quote with every click — 
 
 
 ## Features
-- 🧠 Generates random quotes instantly  
-- 🎨 Clean and responsive design  
-- ⚡ Built with React + Vite for fast performance  
+- Generates random quotes instantly  
+- Clean and responsive design  
+- Built with React + Vite for fast performance  
 
 ---
 
@@ -26,13 +26,13 @@ It displays a new inspirational or thought-provoking quote with every click — 
 
 ---
 
-## 🌐 Live Demo
-👉 **Try it out here:**  
+## Live Demo
+  **Try it out here:**  
 [🔗 Random Quote Generator](https://Washiy-Codes.github.io/Quote-Machine/)
 
 ---
 
-## 🧩 How to Run Locally
+## How to Run Locally
 ```bash
 # Clone this repository
 git clone https://github.com/Washiy-Codes/Quote-Machine.git
