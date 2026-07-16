@@ -19,10 +19,10 @@ It displays a new inspirational or thought-provoking quote with every click — 
 ---
 
 ##  Built With
-- [React](https://react.dev)
-- [JavaScript (ES6+)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
-- [Vite](https://vitejs.dev)
+- React
+- JavaScript (ES6+)
+- CSS3
+- Vite
 
 ---
 
